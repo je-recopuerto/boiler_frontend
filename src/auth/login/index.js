@@ -184,7 +184,7 @@ function Login() {
                 {credentialsErrors}
               </MDTypography>
             )}
-            <MDBox mt={3} mb={1} textAlign="center">
+            {/* <MDBox mt={3} mb={1} textAlign="center">
               <MDTypography variant="button" color="text">
                 if you don't have register...{" "}
                 <MDTypography
@@ -198,7 +198,7 @@ function Login() {
                   Sign Up
                 </MDTypography>
               </MDTypography>
-            </MDBox>
+            </MDBox> */}
           </MDBox>
         </MDBox>
       </Card>
