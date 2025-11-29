@@ -19,6 +19,7 @@ This implementation adds role-based access control to the BellyBasket admin dash
 - **Admin Routes**: Only admin users can access User table and CityName Tables
 - **Protected Routes**: Enhanced ProtectedRoute component with admin requirement support
 
+
 ### 4. UI Updates
 - **Navigation**: Admin-only menu items are hidden for non-admin users
 - **Navbar**: Displays user name and admin badge for admin users
